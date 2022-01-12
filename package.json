@@ -1,0 +1,17 @@
+{
+  "name": "node-google-taxonomy-parser",
+  "version": "1.0.0",
+  "description": "A library for parsing Google Product Type Taxonomy.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "yup": "^0.32.11"
+  }
+}
