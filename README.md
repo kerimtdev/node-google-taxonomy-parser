@@ -16,5 +16,5 @@ taxonomy.execute()
 ```
 
 After the executing, 
-- In the `/input` folder will be included `.txt` files.
-- In the `/output` folder will be included parsed/formatted `.json` files.
+- `/input` folder will be included `.txt` files.
+- `/output` folder will be included parsed/formatted `.json` files.
